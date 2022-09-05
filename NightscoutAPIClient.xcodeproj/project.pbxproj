@@ -129,6 +129,7 @@
 		38F613C1234F7FB9003FB95D /* NightscoutAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightscoutAPIClient.swift; sourceTree = "<group>"; };
 		38FA78D22350C80600780D61 /* TimeInterval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeInterval.swift; sourceTree = "<group>"; };
 		38FEB835236082B900F1E810 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
+		4B67E2D2289B4EDB002D92AF /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A901264E26D95DFB0081BAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A96EF0D7279F75DE00434E5D /* DisclaimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclaimerView.swift; sourceTree = "<group>"; };
 		A97B829727D4C275001B3AC1 /* NightscoutUploadKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NightscoutUploadKit.framework; path = "../../../../../Library/Developer/Xcode/DerivedData/Loop-dfjysjerglduzpdnvmjmaqvgtyio/Build/Products/Debug-iphoneos/NightscoutUploadKit.framework"; sourceTree = "<group>"; };
@@ -407,6 +408,7 @@
 				en,
 				Base,
 				ru,
+				de,
 			);
 			mainGroup = 38F6138F234F3066003FB95D;
 			packageReferences = (
@@ -530,6 +532,7 @@
 			children = (
 				3897846224290961008AD57A /* en */,
 				3897846424290997008AD57A /* ru */,
+				4B67E2D2289B4EDB002D92AF /* de */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
